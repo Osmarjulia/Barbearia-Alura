@@ -1,0 +1,51 @@
+#banner {
+    width: 100%;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.principal {
+    background: #CCCCCC;
+	padding: 30px;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+.beneficios {
+    text-align: center;
+}
+
+.titulo-centralizado {
+
+}
+
+ul {
+
+}
+
+.itens {
+    text-align: left;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+footer {
+	text-align: center;
+	background: url("bg.jpg");
+	padding: 40px 0;
+}
+
+.copyright {
+    color: whitesmoke;
+
+}
